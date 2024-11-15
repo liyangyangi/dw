@@ -120,8 +120,8 @@
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqSq8Lxzua_fHZsMy4wt-125" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;唯一ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;文档类型&lt;/div&gt;&lt;div&gt;文档内容&lt;/div&gt;&lt;div&gt;创建时间&lt;/div&gt;&lt;div&gt;创建人&lt;/div&gt;&lt;div&gt;是否逻辑删除&lt;/div&gt;&lt;div&gt;文档类型&lt;/div&gt;&lt;div&gt;排序&lt;/div&gt;&lt;div&gt;父节点ID&lt;/div&gt;&lt;div&gt;相关业务点&lt;/div&gt;&lt;div&gt;文档状态&lt;/div&gt;文档标题&lt;div&gt;更新时间&lt;/div&gt;&lt;div&gt;更新人&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="120" width="150" height="210" as="geometry">
+        <mxCell id="wqSq8Lxzua_fHZsMy4wt-125" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文档类型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;文档内容&lt;/div&gt;&lt;div&gt;创建时间&lt;/div&gt;&lt;div&gt;创建人&lt;/div&gt;&lt;div&gt;是否逻辑删除&lt;/div&gt;&lt;div&gt;文档类型&lt;/div&gt;&lt;div&gt;排序&lt;/div&gt;&lt;div&gt;父节点ID&lt;/div&gt;&lt;div&gt;相关业务点&lt;/div&gt;&lt;div&gt;文档状态&lt;/div&gt;文档标题&lt;div&gt;更新时间&lt;/div&gt;&lt;div&gt;更新人&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="150" height="200" as="geometry">
             <mxRectangle width="150" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -241,8 +241,8 @@
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqSq8Lxzua_fHZsMy4wt-165" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;唯一ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;创建时间&lt;/div&gt;&lt;div&gt;创建人&lt;/div&gt;&lt;div&gt;业务点名称&lt;/div&gt;&lt;div&gt;父节点ID&lt;/div&gt;&lt;div&gt;文件类型&lt;/div&gt;&lt;div&gt;更新时间&lt;/div&gt;&lt;div&gt;更新人&lt;/div&gt;&lt;div&gt;业务点相关链接&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="120" width="150" height="140" as="geometry">
+        <mxCell id="wqSq8Lxzua_fHZsMy4wt-165" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;创建时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;创建人&lt;/div&gt;&lt;div&gt;业务点名称&lt;/div&gt;&lt;div&gt;父节点ID&lt;/div&gt;&lt;div&gt;文件类型&lt;/div&gt;&lt;div&gt;更新时间&lt;/div&gt;&lt;div&gt;更新人&lt;/div&gt;&lt;div&gt;业务点相关链接&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="120" width="150" height="130" as="geometry">
             <mxRectangle width="150" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
